@@ -2,8 +2,8 @@
 
 Proyecto de Arquitectura y Diseño de Interfaces desarrollado con **React Native (Expo)** y **Node.js (MySQL)**.
 
-![img.png](.expo/img.png)
-![img_1.png](.expo/img_1.png)
+![img_1.png](img_1.png)
+![img.png](img.png)
 
 ## 🚀 Estructura del Proyecto
 - `/backend`: Servidor API REST construido con Express y MySQL.
